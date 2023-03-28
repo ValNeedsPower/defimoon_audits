@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "logo": "/dashboard/company_logo/na_logo.svg",
+      "logo": "https://sitechecker.pro/wp-content/uploads/2017/12/URL-meaning.png",
       "pageLink":false,
       "name": "Artpad",
       "trusted":false,
