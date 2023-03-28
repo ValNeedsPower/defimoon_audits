@@ -86,7 +86,7 @@
     },
     {
       "id": 5,
-      "logo": "public/tria.png",
+      "logo": "../tria.png",
       "pageLink":false,
       "name": "APAPAP",
       "trusted":false,
