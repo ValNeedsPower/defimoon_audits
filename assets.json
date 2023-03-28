@@ -86,7 +86,7 @@
     },
     {
       "id": 5,
-      "logo": "../tria.png",
+      "logo": "https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/tria.png",
       "pageLink":false,
       "name": "APAPAP",
       "trusted":false,
