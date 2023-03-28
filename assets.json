@@ -83,6 +83,27 @@
         "low": 1,
         "informational": 0
       }
+    },
+    {
+      "id": 5,
+      "logo": "/dashboard/company_logo/na_logo.svg",
+      "pageLink":false,
+      "name": "APAPAP",
+      "trusted":false,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Artpad_audit.pdf"
+      },
+      "ecosystem": {
+        "name":"solana",
+        "icon":""
+      },
+      "category":"DeFi",
+      "issues": {
+        "high": 1,
+        "medium": 1,
+        "low": 1,
+        "informational": 0
+      }
     }
   ]
 }
