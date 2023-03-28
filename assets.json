@@ -1,7 +1,8 @@
-{ "assets": [
+{ 
+  "assets": [
     {
-      "id": 1,
-      "logo": "",
+      "id":1,
+      "logo":"",
       "pageLink":"https://www.algem.io/",
       "name": "Algem",
       "trusted": true,
@@ -30,10 +31,10 @@
         "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Algem_SiriusHandler_reAuditReport.pdf"
       },
       "ecosystem": {
-        "name": "astar",
-        "icon": ""
+        "name":"astar",
+        "icon":""
       },
-      "category": "DeFi",
+      "category":"DeFi",
       "issues": {
         "high": 0,
         "medium": 0,
