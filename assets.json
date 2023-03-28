@@ -1,7 +1,7 @@
 { "assets": [
     {
       "id": 1,
-      "logo": "/dashboard/company_logo/algem_logo.svg",
+      "logo": "",
       "pageLink":"https://www.algem.io/",
       "name": "Algem",
       "trusted": true,
@@ -10,7 +10,28 @@
       },
       "ecosystem": {
         "name": "astar",
-        "icon": "/dashboard/chains/astar_chain.svg"
+        "icon": ""
+      },
+      "category": "DeFi",
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "informational": 1
+      }
+    },
+    {
+      "id": 2,
+      "logo": "",
+      "pageLink":"https://www.algem.io/",
+      "name": "Algem",
+      "trusted": true,
+      "audit": {
+        "link": "https://github.com/Defimoonorg/Audit-Report/blob/main/Algem_SiriusHandler_reAuditReport.pdf"
+      },
+      "ecosystem": {
+        "name": "astar",
+        "icon": ""
       },
       "category": "DeFi",
       "issues": {
