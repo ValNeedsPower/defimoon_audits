@@ -53,7 +53,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -74,7 +74,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -95,7 +95,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -116,7 +116,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -137,7 +137,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -158,7 +158,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -179,7 +179,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -201,7 +201,7 @@
       },
       "ecosystem": {
         "name":"ethereum",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
       },
       "category":"DeFi",
       "issues": {
@@ -222,7 +222,7 @@
       },
       "ecosystem": {
         "name":"ethereum",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
       },
       "category":"DeFi",
       "issues": {
@@ -243,7 +243,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -264,7 +264,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -306,7 +306,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -327,7 +327,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -348,7 +348,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -369,7 +369,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -390,7 +390,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -411,7 +411,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -432,7 +432,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -453,7 +453,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -474,7 +474,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -495,7 +495,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -516,7 +516,7 @@
       },
       "ecosystem": {
         "name":"BSC",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/BSC_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -537,7 +537,7 @@
       },
       "ecosystem": {
         "name":"ethereum",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -558,7 +558,7 @@
       },
       "ecosystem": {
         "name":"N/A",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/na_chain.svg"
       },
       "category":"Token",
       "issues": {
@@ -579,7 +579,7 @@
       },
       "ecosystem": {
         "name":"ethereum",
-        "icon":""
+        "icon":"https://raw.githubusercontent.com/ValNeedsPower/defimoon_audits/main/public/dashboard/chains/eth_chain.svg"
       },
       "category":"Token",
       "issues": {
