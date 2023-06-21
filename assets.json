@@ -545,7 +545,322 @@
          "low":0,
          "informational":0
       }
-   }
+   },
+   {
+    "id":28,
+    "logo":"/dashboard/company_logo/na_logo.svg",
+    "name":"Artpad",
+    "pageLink":false,
+    "trusted":true,
+    "audit":{
+       "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/Artpad_reaudit_final.pdf"
+    },
+    "ecosystem":{
+       "name":"ETH",
+       "icon":"/dashboard/chains/eth_chain.svg"
+    },
+    "category":"Token",
+    "issues":{
+       "high":0,
+       "medium":0,
+       "low":0,
+       "informational":4
+    }
+ },
+ {
+  "id":29,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"BitcoinGPT",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/BitcoinGPT.pdf"
+  },
+  "ecosystem":{
+     "name":"BSC",
+     "icon":"/dashboard/chains/BSC_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":1
+  }
+},
+{
+  "id":30,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"DragonBallDAO",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/DragonBallDAO.pdf"
+  },
+  "ecosystem":{
+     "name":"ETH",
+     "icon":"/dashboard/chains/eth_chain.svg"
+  },
+  "category":"DAO",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":1,
+     "informational":7
+  }
+},
+{
+  "id":31,
+  "logo":"/dashboard/company_logo/eraPad_logo.jpeg",
+  "name":"EraPAD",
+  "pageLink":"https://twitter.com/erapad_finance",
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/EraPADio.pdf"
+  },
+  "ecosystem":{
+     "name":"N/A",
+     "icon":"/dashboard/chains/na_chain.svg"
+  },
+  "category":"DAO",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":1
+  }
+},
+{
+  "id":32,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"GoldCat",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/GoldCat_reaudit.pdf"
+  },
+  "ecosystem":{
+     "name":"N/A",
+     "icon":"/dashboard/chains/na_chain.svg"
+  },
+  "category":"DAO",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":1,
+     "informational":0
+  }
+},
+{
+  "id":33,
+  "logo":"/dashboard/company_logo/inToken_logo.jpg",
+  "name":"INtoken",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/INtoken.pdf"
+  },
+  "ecosystem":{
+     "name":"Aptos",
+     "icon":"/dashboard/chains/na_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":0
+  }
+},
+{
+  "id":34,
+  "logo":"/dashboard/company_logo/klover_logo.png",
+  "name":"KloverToken",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/KloverToken.pdf"
+  },
+  "ecosystem":{
+     "name":"Arbitrum",
+     "icon":"/dashboard/chains/na_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":0
+  }
+},
+{
+  "id":35,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"Morocco",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/Morocco.pdf"
+  },
+  "ecosystem":{
+     "name":"BSC",
+     "icon":"/dashboard/chains/bsc_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":2
+  }
+},
+{
+  "id":36,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"PEPEDEFI token",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/PEPEDEFI%20StandartToken.pdf"
+  },
+  "ecosystem":{
+     "name":"BNB",
+     "icon":"/dashboard/chains/bsc_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":1,
+     "informational":7
+  }
+},
+{
+  "id":37,
+  "logo":"/dashboard/company_logo/na_logo.svg",
+  "name":"PekingMuskToken",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/PekingMuskToken.pdf"
+  },
+  "ecosystem":{
+     "name":"ETH",
+     "icon":"/dashboard/chains/eth_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":1,
+     "low":1,
+     "informational":4
+  }
+},
+{
+  "id":38,
+  "logo":"/dashboard/company_logo/rayn_logo.png",
+  "name":"Rewardz NETWORK",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/PekingMuskToken.pdf"
+  },
+  "ecosystem":{
+     "name":"ETH",
+     "icon":"/dashboard/chains/eth_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":3,
+     "informational":8
+  }
+},
+{
+  "id":39,
+  "logo":"/dashboard/company_logo/snark_logo.jpeg",
+  "name":"Snark",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/Snark.pdf"
+  },
+  "ecosystem":{
+     "name":"zksync",
+     "icon":"/dashboard/chains/na_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":0,
+     "informational":1
+  }
+},
+{
+  "id":40,
+  "logo":"/dashboard/company_logo/stasha_logo.png",
+  "name":"Stasha",
+  "pageLink":"https://coinmarketcap.com/currencies/stasha-coin/",
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/Stasha.pdf"
+  },
+  "ecosystem":{
+     "name":"BSC",
+     "icon":"/dashboard/chains/bsc_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":1,
+     "informational":3
+  }
+},
+{
+  "id":41,
+  "logo":"public/dashboard/company_logo/tuzki_logo.jpeg",
+  "name":"Tuzki",
+  "pageLink":"https://tuzkibnb.com/",
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/Tuzki.pdf"
+  },
+  "ecosystem":{
+     "name":"BSC",
+     "icon":"/dashboard/chains/bsc_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":4,
+     "informational":1
+  }
+},
+{
+  "id":42,
+  "logo":"public/dashboard/company_logo/vitalik_logo.jpg",
+  "name":"VitalikCEO",
+  "pageLink":false,
+  "trusted":true,
+  "audit":{
+     "link":"https://github.com/Defimoonorg/Audit-Report/blob/main/VitalikCEO.pdf"
+  },
+  "ecosystem":{
+     "name":"BSC",
+     "icon":"/dashboard/chains/bsc_chain.svg"
+  },
+  "category":"Token",
+  "issues":{
+     "high":0,
+     "medium":0,
+     "low":3,
+     "informational":3
+  }
+}
   ]
 }
  
