@@ -704,7 +704,7 @@
   },
   "ecosystem":{
      "name":"BSC",
-     "icon":"/dashboard/chains/bsc_chain.svg"
+     "icon":"/dashboard/chains/BSC_chain.svg"
   },
   "category":"Token",
   "issues":{
@@ -725,7 +725,7 @@
   },
   "ecosystem":{
      "name":"BNB",
-     "icon":"/dashboard/chains/bsc_chain.svg"
+     "icon":"/dashboard/chains/BSC_chain.svg"
   },
   "category":"Token",
   "issues":{
@@ -809,7 +809,7 @@
   },
   "ecosystem":{
      "name":"BSC",
-     "icon":"/dashboard/chains/bsc_chain.svg"
+     "icon":"/dashboard/chains/BSC_chain.svg"
   },
   "category":"Token",
   "issues":{
@@ -821,7 +821,7 @@
 },
 {
   "id":41,
-  "logo":"public/dashboard/company_logo/tuzki_logo.jpeg",
+  "logo":"/dashboard/company_logo/tuzki_logo.jpeg",
   "name":"Tuzki",
   "pageLink":"https://tuzkibnb.com/",
   "trusted":true,
@@ -830,7 +830,7 @@
   },
   "ecosystem":{
      "name":"BSC",
-     "icon":"/dashboard/chains/bsc_chain.svg"
+     "icon":"/dashboard/chains/BSC_chain.svg"
   },
   "category":"Token",
   "issues":{
@@ -842,7 +842,7 @@
 },
 {
   "id":42,
-  "logo":"public/dashboard/company_logo/vitalik_logo.jpg",
+  "logo":"/dashboard/company_logo/vitalik_logo.jpg",
   "name":"VitalikCEO",
   "pageLink":false,
   "trusted":true,
@@ -851,7 +851,7 @@
   },
   "ecosystem":{
      "name":"BSC",
-     "icon":"/dashboard/chains/bsc_chain.svg"
+     "icon":"/dashboard/chains/BSC_chain.svg"
   },
   "category":"Token",
   "issues":{
